@@ -1,2 +1,2 @@
 # linkedin-scrapper
-An linkedin web scraping tool.
+A linkedin web scraping tool.
